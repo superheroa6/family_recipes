@@ -11,3 +11,7 @@
 
 - mix everything and
 - go for it!
+
+## How to do
+- add oil
+- add poweder
